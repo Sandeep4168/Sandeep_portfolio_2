@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sandeep Yadawad</title>
+    <link>https://Sandeep4168.github.io/Sandeep_portfolio_2/</link>
+    <description>Recent content on Sandeep Yadawad</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 10 Apr 2017 11:00:59 -0400</lastBuildDate>
+    
+	<atom:link href="https://Sandeep4168.github.io/Sandeep_portfolio_2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Project 2: Predicting Credit Card Approvals </title>
+      <link>https://Sandeep4168.github.io/Sandeep_portfolio_2/post/project-2/</link>
+      <pubDate>Mon, 10 Apr 2017 11:00:59 -0400</pubDate>
+      
+      <guid>https://Sandeep4168.github.io/Sandeep_portfolio_2/post/project-2/</guid>
+      <description>Commercial banks receive a lot of applications for credit cards. Many of them get rejected for many reasons, like high loan balances, low income levels, or too many inquiries on an individual&amp;rsquo;s credit report, for example. Manually analyzing these applications is mundane, error-prone, and time-consuming (and time is money!). Luckily, this task can be automated with the power of machine learning and pretty much every commercial bank does so nowadays. In this notebook, we will build an automatic credit card approval predictor using machine learning techniques.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://Sandeep4168.github.io/Sandeep_portfolio_2/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://Sandeep4168.github.io/Sandeep_portfolio_2/contact/</guid>
+      <description>   Platform Url     Address: Karnataka, India   Mobile : +919481779287   Email : sandu4168@gmail.com    linkedin : www.linkedin.com/in/sandeep-yadawad-03452aa5    GitHub : https://github.com/Sandeep4168    </description>
+    </item>
+    
+    <item>
+      <title>Project 1: House Rent in Bangalore</title>
+      <link>https://Sandeep4168.github.io/Sandeep_portfolio_2/post/project-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://Sandeep4168.github.io/Sandeep_portfolio_2/post/project-1/</guid>
+      <description>Bangalore being the software hub of India , it has grown technologically as well as population wise. To combat the increase in demand for the house in Bangalore, the prices are high as sky in these days. Now a days it is very difficult to get a house in Bangalore without burning your pocket. In this analysis, it shows the variation of house prices for regions in East, West, North, South and Central of Bangalore, how prices changes from region to region and where you can get the best house with low price.</description>
+    </item>
+    
+    <item>
+      <title>Project 3: GitHub-History of Scala language </title>
+      <link>https://Sandeep4168.github.io/Sandeep_portfolio_2/post/project-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://Sandeep4168.github.io/Sandeep_portfolio_2/post/project-3/</guid>
+      <description>With almost 30k commits and a history spanning over ten years, Scala is a mature programming language. It is a general-purpose programming language that has recently become another prominent language for data scientists.
+Scala is also an open source project. Open source projects have the advantage that their entire development histories &amp;ndash; who made changes, what was changed, code reviews, etc. &amp;ndash; are publicly available.
+We&amp;rsquo;re going to read in, clean up, and visualize the real world project repository of Scala that spans data from a version control system (Git) as well as a project hosting site (GitHub).</description>
+    </item>
+    
+  </channel>
+</rss>
